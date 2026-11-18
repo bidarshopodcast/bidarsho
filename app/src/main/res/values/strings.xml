@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">بیدارشو</string>
+    <string name="brand_tagline">آکادمی روانشناسی و کوچینگ روابط</string>
+
+    <!-- Bottom Navigation (ordered from Right in RTL) -->
+    <string name="nav_profile">پروفایل من</string>
+    <string name="nav_counseling">نوبت مشاوره</string>
+    <string name="nav_home">خانه</string>
+    <string name="nav_contact">تماس با ما</string>
+    <string name="nav_about">درباره ما</string>
+
+    <!-- Home 4-option Menu -->
+    <string name="menu_classes">کلاس‌های آنلاین</string>
+    <string name="menu_episodes">اپیزودها</string>
+    <string name="menu_meditation">تلپاتی و مدیتیشن</string>
+    <string name="menu_learn_more">بیشتر یاد بگیر</string>
+
+    <!-- Auth / Registration -->
+    <string name="auth_title">خوش آمدید به بیدارشو</string>
+    <string name="auth_subtitle">برای دسترسی به دوره‌ها، اپیزودها و تمرین‌های آگاهی‌بخشی ثبت‌نام کنید</string>
+    <string name="field_full_name">نام و نام خانوادگی</string>
+    <string name="field_email">ایمیل</string>
+    <string name="field_phone">شماره تماس (موبایل)</string>
+    <string name="action_send_otp">ارسال کد تایید به موبایل</string>
+    <string name="action_verify_enter">تایید کد و ورود به اپلیکیشن</string>
+    <string name="action_resend_otp">ارسال مجدد کد</string>
+    <string name="field_otp">کد تایید ۵ رقمی</string>
+
+    <!-- Counseling -->
+    <string name="counseling_telegram_btn">ارتباط با پشتیبانی در تلگرام</string>
+    <string name="counseling_whatsapp_btn">ارتباط با پشتیبانی در واتساپ</string>
+    <string name="counseling_notice">در حال حاضر امکان رزرو نوبت مشاوره به‌صورت آنلاین در اپلیکیشن وجود ندارد. برای دریافت نوبت اختصاصی، حتماً با تیم پشتیبانی هماهنگی انجام دهید.</string>
+</resources>

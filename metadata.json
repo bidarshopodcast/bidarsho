@@ -1,0 +1,6 @@
+{
+  "name": "بیدارشو",
+  "description": "اپلیکیشن روانشناسی و کوچینگ روابط بیدارشو شامل کلاس‌های آنلاین، اپیزودها، مدیتیشن، تلپاتی و تمرین تنفس ۴-۷-۸",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
